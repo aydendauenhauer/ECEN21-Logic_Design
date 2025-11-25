@@ -1,0 +1,1 @@
+This repository contains my Lab 2 project for ECEN 21, where I used Quartus to design and simulate a combinational logic circuit built from AND, OR, and NOT gates, then implemented it on an FPGA to control LEDs and a disable switch, including the schematic, timing diagram, and lab report. 
