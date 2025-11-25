@@ -1,0 +1,1 @@
+This repository contains my Lab 1 project report for ECEN 21, where I used the CADET II trainer to explore LED behavior at different logic voltage levels and built a simple alarm-style circuit using discrete TTL AND and OR gates, along with the associated truth table and wiring.
