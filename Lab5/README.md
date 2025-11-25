@@ -1,0 +1,1 @@
+This repository contains my Lab 5 project for ECEN 21, where I designed a 1-bit full adder and a 4-bit ripple-carry adder in Verilog, implemented them in Quartus, and analyzed the carry-out (C4) and overflow (V) behavior for different input combinations, including how the design could be extended to an 8-bit adder.
