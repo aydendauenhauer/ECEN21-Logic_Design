@@ -1,0 +1,1 @@
+This repository contains my Lab 4 project for ECEN 21, where I designed a three-stage multiplexer circuit using 2-to-1 MUX blocks (S0, S1, S2) driven by logic functions F00, F01, F10, and F11 derived from truth tables and Karnaugh maps, then implemented and tested the design in Quartus using Verilog modules and schematic entry.
