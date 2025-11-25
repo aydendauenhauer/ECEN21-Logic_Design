@@ -1,2 +1,2 @@
 # ECEN21-Logic_Design
-ECEN 21 – Logic Design lab focusing on learning verilog and basic logic design.
+This repository contains my ECEN 21 – Logic Design I lab projects, completed at Santa Clara University. The goal of these labs is to build a foundation in digital logic and hardware description, including Boolean algebra, combinational and sequential circuits, minimization techniques, and basic HDL-based design and simulation. The repository includes source files for the lab implementations as well as any helper modules, reports, and supporting materials. This project is shared for personal reference and portfolio purposes only. If you are currently enrolled in ECEN 21, please do not copy this work or submit it as your own. Follow SCU’s academic integrity policies.
