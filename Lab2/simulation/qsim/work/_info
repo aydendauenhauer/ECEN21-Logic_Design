@@ -1,0 +1,69 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11f vlog 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dZ:/ELEN_21L/Lab2/simulation/qsim
+T_opt
+!s110 1681946127
+VoO_1L0k2@jje@jBI`fJgk0
+04 19 4 work labTest_vlg_vec_tst fast 0
+=1-00be438ed7ab-6440760e-36e-1f3c
+!s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work -L cycloneive_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.2;73
+vlabTest
+Z3 !s110 1681946126
+!i10b 1
+!s100 hT:jVPD;D_TWbhlh>DgoA1
+IPo:Ec2HA<T<Z7lPh<AZC^3
+R1
+w1681946123
+8labTest.vo
+FlabTest.vo
+!i122 4
+L0 32 116
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.2;73
+r1
+!s85 0
+31
+!s108 1681946125.000000
+!s107 labTest.vo|
+!s90 -work|work|labTest.vo|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+nlab@test
+vlabTest_vlg_vec_tst
+R3
+!i10b 1
+!s100 ;6ZTV1VBcmHhO2l7j1C1?2
+IIJF;i2IT;?YGFg4lG^S9C0
+R1
+w1681946121
+8Waveform2.vwf.vt
+FWaveform2.vwf.vt
+!i122 5
+L0 30 52
+R4
+R5
+r1
+!s85 0
+31
+!s108 1681946126.000000
+!s107 Waveform2.vwf.vt|
+!s90 -work|work|Waveform2.vwf.vt|
+!i113 0
+R6
+R2
+nlab@test_vlg_vec_tst
