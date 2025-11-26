@@ -1,0 +1,1 @@
+This repository contains my Lab 6 project for ECEN 21, where I designed a 4-bit mini calculator/ALU in Verilog using multiplexers, full adders, flip-flops, and seven-segment display drivers. The circuit takes two 4-bit operands and an operation code, produces a 4-bit result, and generates status flags for carry, overflow, and zero, all implemented and tested on an FPGA board.
