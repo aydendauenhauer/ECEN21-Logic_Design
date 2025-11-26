@@ -1,0 +1,1 @@
+This repository contains my Lab 9 project for ECEN 21, where I implemented a Mealy finite state machine in Verilog on the DE2-115 FPGA board to drive a seven-segment counter with pause and resume control, then verified the design by comparing it to the prelab state diagrams and testing its behavior in Quartus and on the physical hardware.
