@@ -1,0 +1,80 @@
+|Lab5
+LEDG[0] <= myadder2:inst.s[0]
+LEDG[1] <= myadder2:inst.s[1]
+LEDG[2] <= myadder2:inst.s[2]
+LEDG[3] <= myadder2:inst.s[3]
+LEDG[4] <= myadder2:inst.v
+LEDG[5] <= myadder2:inst.c4
+SW[0] => myadder2:inst.X[0]
+SW[1] => myadder2:inst.X[1]
+SW[2] => myadder2:inst.X[2]
+SW[3] => myadder2:inst.X[3]
+SW[4] => myadder2:inst.Y[0]
+SW[5] => myadder2:inst.Y[1]
+SW[6] => myadder2:inst.Y[2]
+SW[7] => myadder2:inst.Y[3]
+SW[8] => myadder2:inst.c0
+
+
+|Lab5|myadder2:inst
+X[0] => X[0].IN1
+X[1] => X[1].IN1
+X[2] => X[2].IN1
+X[3] => X[3].IN1
+Y[0] => Y[0].IN1
+Y[1] => Y[1].IN1
+Y[2] => Y[2].IN1
+Y[3] => Y[3].IN1
+c0 => c0.IN1
+s[0] <= myfulladd:comb_3.port3
+s[1] <= myfulladd:comb_4.port3
+s[2] <= myfulladd:comb_5.port3
+s[3] <= myfulladd:comb_6.port3
+v <= v.DB_MAX_OUTPUT_PORT_TYPE
+c4 <= myfulladd:comb_6.port4
+
+
+|Lab5|myadder2:inst|myfulladd:comb_3
+A => COUT.IN0
+A => COUT.IN0
+B => COUT.IN1
+B => COUT.IN1
+CIN => COUT.IN1
+CIN => SOUT.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+SOUT <= SOUT.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Lab5|myadder2:inst|myfulladd:comb_4
+A => COUT.IN0
+A => COUT.IN0
+B => COUT.IN1
+B => COUT.IN1
+CIN => COUT.IN1
+CIN => SOUT.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+SOUT <= SOUT.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Lab5|myadder2:inst|myfulladd:comb_5
+A => COUT.IN0
+A => COUT.IN0
+B => COUT.IN1
+B => COUT.IN1
+CIN => COUT.IN1
+CIN => SOUT.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+SOUT <= SOUT.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Lab5|myadder2:inst|myfulladd:comb_6
+A => COUT.IN0
+A => COUT.IN0
+B => COUT.IN1
+B => COUT.IN1
+CIN => COUT.IN1
+CIN => SOUT.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+SOUT <= SOUT.DB_MAX_OUTPUT_PORT_TYPE
+
+
