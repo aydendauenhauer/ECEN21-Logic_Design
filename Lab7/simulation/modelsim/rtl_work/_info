@@ -1,0 +1,165 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/ELEN_21L/Lab7/simulation/modelsim
+T_opt
+!s110 1684969920
+V;AR`hgod[PB^^9GX2RWf51
+04 2 4 work tb fast 0
+=1-00be438ed7ab-646e99bf-3de-20b8
+!s124 OEM10U7 
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.2;73
+vCounter
+Z2 !s110 1684969917
+!i10b 1
+!s100 `kFdBBoEQUG^IgOeBK3Wa1
+IgEXjMV<=g7?IG_I?CES@Q0
+R0
+w1684967655
+8Z:/ELEN_21L/Lab7/Counter.v
+FZ:/ELEN_21L/Lab7/Counter.v
+!i122 0
+L0 1 26
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2021.2;73
+r1
+!s85 0
+31
+!s108 1684969916.000000
+!s107 Z:/ELEN_21L/Lab7/Counter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Z:/ELEN_21L/Lab7|Z:/ELEN_21L/Lab7/Counter.v|
+!i113 0
+Z5 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 !s92 -vlog01compat -work work +incdir+Z:/ELEN_21L/Lab7 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@counter
+vDownControl
+R2
+!i10b 1
+!s100 A];L_4`LQ1^?OFcc?CmI12
+I7dlB7_<6nFzn<5I2dNV5c2
+R0
+w1684967548
+8Z:/ELEN_21L/Lab7/DownControl.v
+FZ:/ELEN_21L/Lab7/DownControl.v
+!i122 1
+Z7 L0 1 8
+R3
+R4
+r1
+!s85 0
+31
+Z8 !s108 1684969917.000000
+!s107 Z:/ELEN_21L/Lab7/DownControl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Z:/ELEN_21L/Lab7|Z:/ELEN_21L/Lab7/DownControl.v|
+!i113 0
+R5
+R6
+R1
+n@down@control
+vLab7
+Z9 !s110 1684969918
+!i10b 1
+!s100 GNGIlEdL;m[dYWfdH:9W_1
+IK6JEUZd7fe9hPP=>Zd90S0
+R0
+w1684968656
+8Z:/ELEN_21L/Lab7/lab7.v
+FZ:/ELEN_21L/Lab7/lab7.v
+!i122 4
+L0 20 81
+R3
+R4
+r1
+!s85 0
+31
+Z10 !s108 1684969918.000000
+!s107 Z:/ELEN_21L/Lab7/lab7.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Z:/ELEN_21L/Lab7|Z:/ELEN_21L/Lab7/lab7.v|
+!i113 0
+R5
+R6
+R1
+n@lab7
+vtb
+R9
+!i10b 1
+!s100 zDKen98nH^L[L_U7IXDla3
+IRKidmkI3KQV^maJ:GB=G;0
+R0
+w1684969850
+8Z:/ELEN_21L/Lab7/tb.v
+FZ:/ELEN_21L/Lab7/tb.v
+!i122 5
+L0 1 36
+R3
+R4
+r1
+!s85 0
+31
+R10
+!s107 Z:/ELEN_21L/Lab7/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Z:/ELEN_21L/Lab7|Z:/ELEN_21L/Lab7/tb.v|
+!i113 0
+R5
+R6
+R1
+vUpControl
+R2
+!i10b 1
+!s100 0R9@h90BViXO]UMcJYPe32
+I<c4SZ_6MboI>QDLnS3UnP3
+R0
+w1684967689
+8Z:/ELEN_21L/Lab7/UpControl.v
+FZ:/ELEN_21L/Lab7/UpControl.v
+!i122 2
+R7
+R3
+R4
+r1
+!s85 0
+31
+R8
+!s107 Z:/ELEN_21L/Lab7/UpControl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Z:/ELEN_21L/Lab7|Z:/ELEN_21L/Lab7/UpControl.v|
+!i113 0
+R5
+R6
+R1
+n@up@control
+vWinLose
+R9
+!i10b 1
+!s100 hD5`[QC>KPbmOGW[<:AJo0
+I=R6cGzUmWD<imHJkU6EbP3
+R0
+w1684967231
+8Z:/ELEN_21L/Lab7/WinLose.v
+FZ:/ELEN_21L/Lab7/WinLose.v
+!i122 3
+L0 1 22
+R3
+R4
+r1
+!s85 0
+31
+R8
+!s107 Z:/ELEN_21L/Lab7/WinLose.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Z:/ELEN_21L/Lab7|Z:/ELEN_21L/Lab7/WinLose.v|
+!i113 0
+R5
+R6
+R1
+n@win@lose
